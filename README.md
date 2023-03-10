@@ -28,3 +28,6 @@ If you have the space, use a nevermore.  If you don't, maybe the MF Nano is for 
 
 https://user-images.githubusercontent.com/105010153/224429391-bcc5b0e7-bd89-4d3e-93c5-b1fe3c05a4ea.mp4
 
+## Installation
+
+://./Images/installation.mp4
