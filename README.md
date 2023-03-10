@@ -30,4 +30,5 @@ https://user-images.githubusercontent.com/105010153/224429391-bcc5b0e7-bd89-4d3e
 
 ## Installation
 
-://./Images/installation.mp4
+https://user-images.githubusercontent.com/105010153/224439577-bb7c667e-36c9-4f9d-a298-c3b9c9a3530d.mp4
+
